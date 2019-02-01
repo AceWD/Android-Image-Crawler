@@ -1,0 +1,73 @@
+{
+  "Phones" : {
+    "\"crosshatch\" for Pixel 3 XL" : {
+      "images" : {
+        "9 0 0 (PD1A 180720 030, Sep 2018)" : {
+          "checksum" : "38b1b90a38dfd7f449cba4eb2cf786b76e39ee3d9b17cbc1ba6db6463545863e",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.030-factory-38b1b90a.zip",
+          "version" : "9.0.0 (PD1A.180720.030, Sep 2018)"
+        },
+        "9 0 0 (PD1A 180720 031, Sep 2018, Verizon)" : {
+          "checksum" : "7e9da376a846c934eb3b4ca39833996ee453c3ad67bb23a365ba09862c286d03",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.031-factory-7e9da376.zip",
+          "version" : "9.0.0 (PD1A.180720.031, Sep 2018, Verizon)"
+        },
+        "9 0 0 (PQ1A 181105 017 A1, Nov 2018)" : {
+          "checksum" : "6f06f1a05e1fd18624a3f0b8d91ca0c38584ba77edc77ed2f2dd8e1651c61537",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181105.017.a1-factory-6f06f1a0.zip",
+          "version" : "9.0.0 (PQ1A.181105.017.A1, Nov 2018)"
+        },
+        "9 0 0 (PQ1A 181205 006 A1, Dec 2018, Docomo)" : {
+          "checksum" : "99bead334525f4d26ef5777ebc910648674597e1322a2a95e9e2d4f9df5d69cf",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181205.006.a1-factory-99bead33.zip",
+          "version" : "9.0.0 (PQ1A.181205.006.A1, Dec 2018, Docomo)"
+        },
+        "9 0 0 (PQ1A 181205 006, Dec 2018)" : {
+          "checksum" : "96b235048c53d3b37039c092889f1b8a749e9a407fea63659e0b3b90bd91c50e",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181205.006-factory-96b23504.zip",
+          "version" : "9.0.0 (PQ1A.181205.006, Dec 2018)"
+        },
+        "9 0 0 (PQ1A 190105 004, Jan 2019)" : {
+          "checksum" : "7165155c738eac530a3d27bd03d166b3358065183627c41d4c4804a19a2795b0",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-pq1a.190105.004-factory-7165155c.zip",
+          "version" : "9.0.0 (PQ1A.190105.004, Jan 2019)"
+        }
+      },
+      "ota" : {
+        "9 0 0 (PD1A 180720 030, Sep 2018)" : {
+          "checksum" : "21ac68ff9e6aacefec2be4c4dde1cfa0b45e0b4aefe412dc741c4f096cbc6af5",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.030-21ac68ff.zip",
+          "version" : "9.0.0 (PD1A.180720.030, Sep 2018)"
+        },
+        "9 0 0 (PD1A 180720 031, Sep 2018, Verizon)" : {
+          "checksum" : "e5f99be08947d7cb75d86d3c2c837d4d9b225a9d35f44be36728cc57402c62c4",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.031-e5f99be0.zip",
+          "version" : "9.0.0 (PD1A.180720.031, Sep 2018, Verizon)"
+        },
+        "9 0 0 (PQ1A 181105 017 A1, Nov 2018)" : {
+          "checksum" : "feb712c3ca8b5b58a13543969dde22702ecb62d051cd38958a40cfa444f03e6c",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181105.017.a1-feb712c3.zip",
+          "version" : "9.0.0 (PQ1A.181105.017.A1, Nov 2018)"
+        },
+        "9 0 0 (PQ1A 181205 006 A1, Dec 2018, Docomo)" : {
+          "checksum" : "359dc9b019c2ab4e54a3c3133605411104f6e908273c492cbb89b2a30a982af7",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181205.006.a1-359dc9b0.zip",
+          "version" : "9.0.0 (PQ1A.181205.006.A1, Dec 2018, Docomo)"
+        },
+        "9 0 0 (PQ1A 181205 006, Dec 2018)" : {
+          "checksum" : "bc75321ebeeafde609d2e096f0a49beeb6821dd5d4ffef3f499a8b78fe92bd55",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181205.006-bc75321e.zip",
+          "version" : "9.0.0 (PQ1A.181205.006, Dec 2018)"
+        },
+        "9 0 0 (PQ1A 190105 004, Jan 2019)" : {
+          "checksum" : "5f23d043fe29c47ea00d87f04fc3cd7393bcf7602ebbf3b3e670a5e354efb79f",
+          "link" : "https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.190105.004-5f23d043.zip",
+          "version" : "9.0.0 (PQ1A.190105.004, Jan 2019)"
+        }
+      }
+    },
+    "Phone 1" : {
+      "name" : "phone"
+    }
+  }
+}
